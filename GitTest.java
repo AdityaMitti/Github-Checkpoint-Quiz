@@ -1,4 +1,4 @@
-//Mitti
+//Aditya
 public class GitTest{
 	 private String Github;
 	 public GitTest(){
