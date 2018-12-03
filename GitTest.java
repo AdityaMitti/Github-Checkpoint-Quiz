@@ -7,4 +7,7 @@ public class GitTest{
 	 public String toString(){
 		 return Github;
 	 }
+	 public void setstring(){
+		 int x = 1;
+	 }
 }
